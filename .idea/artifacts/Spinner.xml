@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Spinner">
+    <output-path>$PROJECT_DIR$/out/artifacts/Spinner</output-path>
+    <root id="archive" name="Spinner.jar">
+      <element id="archive" name="Spinner.jar">
+        <element id="module-output" name="Spinner" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
